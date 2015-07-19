@@ -80,4 +80,6 @@ Rails.application.configure do
     #Required for Heroku
     # Note to set to actual host name
   config.action_mailer.default_url_options = { host: 'krishita007.herokuapp.com'}
+
+ 
 end
